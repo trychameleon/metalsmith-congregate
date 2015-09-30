@@ -1,0 +1,19 @@
+{
+  "name": "metalsmith-congregate",
+  "repository": "https://github.com/trychameleon/metalsmith-congregate.git",
+  "version": "0.9.0",
+  "license": "MIT",
+  "description": "A Metalsmith plugin to bring multiple separate files to one location.",
+  "keywords": [
+    "JavaScript framework",
+    "JavaScript snippet",
+    "Metalsmith",
+    "Metalsmith Plugin"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "path": "*",
+    "stat-mode": "*"
+  }
+}
