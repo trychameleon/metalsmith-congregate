@@ -17,7 +17,7 @@ var congregate = require('metalsmith-congregate');
 metalsmith.use(congregate({
   source: [ // an array of file paths relative to the working directory
     "./node_modules/jquery/dist/jquery.js", 
-    "./node_modules/bootstrap/dist/js/bootstrap.js
+    "./node_modules/bootstrap/dist/js/bootstrap.js"
   ],
   destination: './assets' // relative to the build directory
 }));
