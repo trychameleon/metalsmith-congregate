@@ -12,8 +12,8 @@
     "Metalsmith Plugin"
   ],
   "dependencies": {
-    "path": "*",
-    "stat-mode": "*"
+    "path": "0.12.7",
+    "stat-mode": "0.2.1"
   },
   "devDependencies": {
   }
